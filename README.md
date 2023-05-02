@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![MSJroy GitHub stats](https://github-readme-stats.vercel.app/api?username=MSJroy&show_icons=true&theme=tokyonight)
 
-![decription](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+< img src="https://github-readme-stats.vercel.app/api?username=tjsky&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
+
