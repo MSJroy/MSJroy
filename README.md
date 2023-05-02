@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/MSJroy/count.svg)
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSJroy&show_icons=true&theme=radical)
