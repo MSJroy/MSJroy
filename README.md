@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/MSJroy/count.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSJroy)](https://github.com/Christmas/github-readme-stats)
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSJroy&show_icons=true&theme=radical)
