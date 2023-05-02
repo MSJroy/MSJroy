@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/MSJroy/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSJroy&layout=compact)](https://github.com/MSJroy/RF-Bridge-EFM8BB1)
+![MSJroy GitHub stats](https://github-readme-stats.vercel.app/api?username=MSJroy&show_icons=true&theme=tokyonight)
